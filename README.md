@@ -1,6 +1,5 @@
 # npm - a JavaScript package manager
 
-
 [![npm version](https://img.shields.io/npm/v/npm.svg)](https://npm.im/npm)
 [![license](https://img.shields.io/npm/l/npm.svg)](https://npm.im/npm)
 [![CI - cli](https://github.com/npm/cli/actions/workflows/ci.yml/badge.svg)](https://github.com/npm/cli/actions/workflows/ci.yml)
